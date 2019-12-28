@@ -1,0 +1,484 @@
+*{
+	margin: 0px;
+     padding: 0px;
+}
+
+
+
+body {
+font-family: 'Lora', serif;
+
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+header{
+background :#87509C;
+padding: 25px 0px;
+width: 100%;
+float: left;
+}
+.logo{
+width: 30%;
+float: left;
+}
+
+
+.logo img{
+display: block;
+max-width: 100%
+}
+.menu{
+width: 70%;
+float:left;
+}
+nav ul{
+list-style: none;
+
+
+}
+nav ul li{
+display: inline-block;
+margin: 10px 35px;
+color: white;
+font-size: 25px
+}
+.header-main{
+    width: 59%;
+    margin: 0 auto;
+    padding: 84px 0px;
+}
+.header-main h2{text-align: center;color: white;font-size: 34px;}
+
+.btn{
+margin: 20px auto;
+    display: block;
+    background: #EB7D4B;
+    border: none;
+    padding: 22px 50px;
+    color: #fff;
+    font-size: 22px;
+    text-transform: uppercase;
+    box-shadow: 0px 4px #C86A40;
+}
+
+.service {
+background-color: #17C2A4;
+width: 100%;
+float: left;
+padding: 25px 0px;
+}
+.service-title{
+width: 800px;
+margin: 0 auto;
+text-align: center;
+}
+.service-title h2{
+	text-transform: uppercase;
+font-weight: bold;
+margin: 10px 0px;
+}
+.service-title span{
+	border-bottom: 2px solid #161616;
+	display: block;
+	width: 65px;
+	margin: 10px auto;
+	
+}
+.service-title p{
+	text-align: center;
+	font-size: 22px;
+}
+
+.service-one {
+width: 22%;
+float: left;
+text-align: center;
+margin: 15px 10px;
+}
+.service-one img{
+
+}
+.service-one h4{
+	color: white;
+	margin: 10px 0px;
+	font-size: 22px;
+
+}
+
+.service-one p{
+color: #fff;
+}
+.team{
+	width: 100%;
+	float: left;
+	background-color:#D3D3D3;
+	padding: 25px 0px;
+}
+
+.team{
+	width: 100%;
+	float: left;
+	background-color:#D3D3D3;
+	padding: 25px 0px;
+}
+.team-title{
+	width: 800px;
+	margin: 0px auto;
+	text-align: center;
+}
+span{
+	border-bottom: 2px solid black;
+	width: 80px;
+	display: block;
+	margin: 10px auto;
+}
+.team-title h3{
+	font-size: 26px;
+    padding: 10px 106px;
+
+}
+.team-title p{
+	text-align: center;
+    font-size: 15px;
+    padding: 10px 60px;
+
+}
+.team-one{
+	width: 22%;
+	float: left;
+	text-align: center;
+	margin: 15px 17px;
+}
+.team-one img{
+	padding: 25px 0px;
+	width: 200px
+}
+.team-one h3{
+	color: black;
+	font-size: 25px;
+	
+}
+.team-one p{
+	color: black;
+	margin: 10px 0px;
+	width: 100%;
+	float: left;
+	background-color:#D3D3D3;
+	padding: 25px 0px;
+}
+
+.team{
+	width: 100%;
+	float: left;
+	background-color:#D3D3D3;
+	padding: 25px 0px;
+}
+.team-title{
+	width: 800px;
+	margin: 0px auto;
+	text-align: center;
+}
+}
+.team-title h4{
+	font-size: 26px;
+    padding: 10px 106px;
+
+}
+.team-title p{
+	text-align: center;
+    font-size: 15px;
+    padding: 10px 60px;
+
+}
+.team-one{
+	width: 22%;
+	float: left;
+	text-align: center;
+	margin: 15px 10px;
+}
+.team-one img{
+	padding: 25px 0px;
+	width: 200px
+}
+.team-one h3{
+	color: black;
+	font-size: 25px;
+	
+}
+.team-one p{
+	color: black;
+	margin: 10px 0px;
+
+}
+.team-one a{
+	text-decoration: none;
+	font-size: 22px;
+	color: #5546a5;
+}
+.team-one ul li{
+display: inline-block;
+margin: 0px 10px;
+background-color: #9E9E9E;
+padding: 10px 10px;
+border-radius: 50%;
+color: white;
+}
+
+
+
+.skill{
+	width: 100%;
+	float: left;
+	background-color:white;
+	padding: 25px 0px;
+}
+.skill-title{
+	width: 800px;
+	margin: 0px auto;
+	text-align: center;
+	font-size: 30px;
+}
+
+
+.skill-title h4{
+	font-size: 26px;
+    padding: 10px 106px;
+
+}
+.skill-title p{
+	text-align: center;
+    font-size: 20px;
+    
+
+}
+.skill-one{
+	width: 22%;
+	float: left;
+	text-align: center;
+	margin: 15px 10px;
+}
+.service-one img{
+	padding: 25px 0px;
+}
+
+.portfolio{
+
+width:100%;
+float:left;
+background-color:#FFDD99;
+padding:25px 0px;
+}
+
+.portfolio-title{
+
+width:800px;
+margin:0 auto;
+text-align:center
+
+}
+.portfolio h1{
+
+margin:10px 0px;
+font-size: 40px;
+
+}
+
+
+.portfolio p{
+
+text-align:center;
+font-size:22px;
+
+
+}
+.porfolio ul{
+
+	list-style:none;
+}
+
+.portfolio ul li{
+
+    display: inline-block;
+    margin: 40px 14px;
+    color: black;
+    font-size: 25px;
+    text-transform: uppercase;
+    background-color: #f6ce7e;
+    padding: 4px 9px;
+
+}
+.portfolio-img{
+
+width:50%;
+float:left;
+
+}
+.portfolio-img h3{
+    padding: 30px;
+text-transform: uppercase;
+text-align: center;
+
+}
+.button{
+
+    margin: 25px auto;
+    display: block;
+    background-color: #18C2A4;
+    border: 34px;
+    padding: 18px 60px;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    box-shadow: 0px 4px #18c2a485;
+
+}
+.about{
+    width: 100%;
+    float: left;
+    padding: 20px 0px;
+    background: #D74680;
+}
+.about p{
+	color: white;
+}
+.about-title {
+    text-align: center;
+    padding: 30px 0px;
+    margin: 0px auto;
+    font-size: 22px;
+    width: 50%;
+}
+.about-title h1 {
+        color: white;
+    text-align: center;
+    font-size: 38px;
+}
+
+}
+.about-title p{
+    text-align: center;
+    color: wheat;
+}
+.about-one {
+    width: 50%;
+    float: left;
+    padding: 40px 0px;
+}
+.about-img{
+    max-width: 100%;
+    padding: 10px 0px;
+    margin: 10px 20px;
+}
+.about-img img{
+    width: 140px;
+    display: block;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+.about-content{
+    width: 300px;
+    float: left;
+        font-size: 20px;
+
+}
+.about-content p{
+    color: aliceblue;
+    margin-top: 10px;
+}
+.about-content h4 {
+    color: aliceblue;
+    margin-top: 15px;
+    text-transform: uppercase;
+
+}
+.about-content a {
+text-decoration: none;
+    font-size: 16px;
+    color: #e9a78e;
+}
+
+
+
+/*Form section*/
+
+.form{
+	width: 100%;
+	float: left;
+	background-color:#3C5499;
+	padding: 25px 0px;
+}
+.form-title{
+	width: 800px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.form-title h1{
+	font-size: 43px;
+    padding: 10px 106px;
+     color: white;
+
+
+}
+.form-title p{
+	text-align: center;
+    font-size: 20px;
+    margin: 10px 0px;
+    padding: 5PX 105PX;
+    color: white;
+
+}
+.form-signup{
+	padding: 20px 0px;
+}
+.form-signup input{
+	padding: 15px 110px;
+    margin: 0px 6px;
+    background-color: #273A71;
+    border: none;
+   
+}
+
+.area{
+    width: 776px;
+    height: 221px;
+    background-color: #273A71;
+    border: none;
+    
+}
+.placeholder{
+	text-align: center;
+}
+
+.form-signup a{
+	text-decoration: none;
+	color: #fff
+}
+
+.footer-section{
+	padding: 30px 0;
+	background: #344b8e;
+	text-align: center;
+	
+}
+.footer-section ul{
+	list-style: none;
+
+}
+.footer-section ul li{
+	display: inline-block;
+	margin: 0 20px;
+}
+.footer-section ul li a{
+	text-decoration: none;
+	color: #dcdada;
+	font-size: 18px;
+	text-transform: uppercase;
+	padding: 10px;
+	margin: 5px 5px;
+}
+.fa.fa-facebook{}
